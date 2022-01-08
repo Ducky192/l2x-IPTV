@@ -13,4 +13,4 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf5/chunks.m3u8?nimblesessi
 #EXTINF:-1 group-title="l2xIPTV" tvg-logo="https://we-play.live/uploads/posters/-poster1602703707.png",beIN SPORTS 1
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein1/chunks.m3u8?nimblesessionid=2003836&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNDo1MjowNyBQTSZoYXNoX3ZhbHVlPVV5UUtEQUwxdWcxcThGRUtDdlBSemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 group-title="l2xIPTV" tvg-logo="https://we-play.live/uploads/posters/-poster1602703712.png", beIN SPORTS 2
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein2/chunks.m3u8?nimblesessionid=2004650&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNDo1NDozMCBQTSZoYXNoX3ZhbHVlPUxsYTRxQmQ1OEd2WW13cFU2Umwyc1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://cdn118.stm.trueid.net/live6/he001_w_auto_tidapp.smil/chunklist_w1592428023_b2537779_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=90960740&did=MjA5NzQ0MTIwNy4xNjQxNjIyNTE2&mpass=yBWpsngaaT0-wAgTUsuS4Fv2mcJySFMX0vUt-nnehdp7_eRGzSOXYXao6PY_X6OlZWiaN2sXYD2JlUZziN2iDRp3hpTMhpgY1C4MTPxnGZw6OpS2TVqYTwmDy89UMPOmxc4&sid=03d5a9dffb&rt=1641662770&tk=4cDsYpm5fU70clpiK1-zI-wjhZwzTJF7zU2g_VtuRSg

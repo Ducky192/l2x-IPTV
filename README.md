@@ -5,4 +5,4 @@ https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8?x_ark_access_i
 #EXTINF:-1 group-title="DigitalTV" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-ch7.png",CH7
 https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="DigitalTV" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-thairath.png",ไทยรัฐTV
-https://live.thairath.co.th/trtv2/playlist_1080p/index.m3u8
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8

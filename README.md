@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="3HD" tvg-logo="https://www.google.com/search?q=%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%873&rlz=1C1CHZN_enTH970TH970&sxsrf=AOaemvK4aCAlh2XoVkCB2VviyeAjOZVbdw:1641633764667&tbm=isch&source=iu&ictx=1&fir=Zt7IQcbMeSYQdM%252CNdQBCUQn8ymC0M%252C_%253BXPq0lGcfsTw_TM%252C_N7GwL3GvJo6QM%252C_%253BpcZcMjkZKtTrOM%252CRxlMIegKy5QppM%252C_%253BHNs1PrrDzqVcgM%252C6dAHva62HQhc0M%252C_%253BwoP6E6FV8jtq_M%252Cm_kjRlgVDj3vlM%252C_%253B-AdgYkMCRDeeUM%252CE0TYxP4aMWkF8M%252C_&vet=1&usg=AI4_-kRxnlTPI8oPjrS1V5liR4gCd0PBmw&sa=X&ved=2ahUKEwjLmpOr6qH1AhU3SmwGHZ99DpUQ_h16BAgnEAE#imgrc=XPq0lGcfsTw_TM"
+#EXTINF:-1 group-title="3HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftv.trueid.net%2Flive%2Fch3-hd&psig=AOvVaw1U5albezZro23ya2bjaYOs&ust=1641720477158000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCJp8LrofUCFQAAAAAdAAAAABAD"
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1641662159&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=Btmf0f7aWbq5O-SrYOLVCQ
+ 

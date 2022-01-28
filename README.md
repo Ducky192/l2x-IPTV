@@ -5,4 +5,4 @@ https://cache-movie.all-movie.tv/hls/content/nas05/mvc/Concert/Asanee_Wasan_Sen_
 
 
 #EXTINF:-1 group-title="ฟรีทีวี",CH5
-https://cdn-edge-sg2.idoohd.com/play/d1c64768272f718aec2e4b305ee90f7a/6be75aaace47bb0d994f1eeca91b9f5c/1643381630/playlist.m3u8
+https://cdn-edge-sg2.idoohd.com/play/af9afbfb4b81ef471c878e812dc7d416/6f446938f68f941a0bfaf4e8e521b8fb/1643440375/playlist.m3u8

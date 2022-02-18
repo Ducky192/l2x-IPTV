@@ -10,7 +10,7 @@
 "name"		  :	  "InwIPTV",
 "image"		  :	  "https://inwiptv.com/images/brandlogo.png",
 "url"		    :	  "https://inwiptv.com/player_movie.php?channel=843250",
-"embed"	    :	  "false"
+"playInNatPlayer"   :   "true"
 },
 ]
 }

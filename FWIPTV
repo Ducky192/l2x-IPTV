@@ -1,0 +1,16 @@
+{
+"name"		  :	  "l2Clariney",
+"author"	  : 	"l2",
+"image"		  :	  "https://i.pinimg.com/564x/1d/46/af/1d46af5cfcba14159484bea44cc88708.jpg",
+"url"       :   "https://yamcode.com/raw/news-24152",
+"stations"	:
+[
+
+{
+"name"		  :	  "InwIPTV",
+"image"		  :	  "https://inwiptv.com/images/brandlogo.png",
+"url"		    :	  "https://inwiptv.com/player_movie.php?channel=843250",
+"embed"	    :	  "false"
+},
+]
+}

@@ -1,0 +1,187 @@
+{
+"name"		:	"l2Clariney",
+"author"	: 	"l2",
+"image"		:	"https://i.pinimg.com/564x/1d/46/af/1d46af5cfcba14159484bea44cc88708.jpg",
+"url"       :   "https://yamcode.com/raw/untitled-5693",
+"stations"	:
+[
+
+{
+"name"		:	"Food Network",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704522.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIyIDE6NTY6MTEgUE0maGFzaF92YWx1ZT1xM3J5UmwyR0tKcWtnZjdJYnFqaEF3PT0mdmFsaWRtaW51dGVzPTIw",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"ROCK ENTERTAINMENT",
+"image"		:	"https://we-play.live/uploads/posters/rock-entertainment-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ent/playlist.m3u8",
+"embed"	    	:	"false"
+},
+
+
+{
+"name"		:	"ROCK EXTREME",
+"image"		:	"https://we-play.live/uploads/posters/rock-extreme-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"AXN HD",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704538.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/axn/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"Waku Waku Japan",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704546.png",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/wakuwakujapan/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"Lifetime",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704559.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/lifetime/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"True Film HD",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704752.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truefilmhd/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"Warner TV",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704746.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/warner/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"CCM",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704607.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/ccm/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"Paramount Channel",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704632.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/paramount/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"True X-ZYTE",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704657.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/xzyte/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"ZEE หนัง",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704662.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/zeenung/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"True Thai Film",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704673.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truethaifilm/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"HITS Movies",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704685.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hitsmovies/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"Hits",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704689.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hits/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"KBS World",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704694.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/kbs/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"tvN",
+"image"		:	"https://we-play.live/uploads/posters/-poster1602704702.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/tvn/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"TRUE MOVIE HITS",
+"image"		:	"https://we-play.live/uploads/posters/true-movie-hits-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truemoviehits/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"GEM",
+"image"		:	"https://we-play.live/uploads/posters/gem-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/gem/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"True Chinese More",
+"image"		:	"https://we-play.live/uploads/posters/true-chinese-more-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-chinese-more/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"True Asian More",
+"image"		:	"https://we-play.live/uploads/posters/true-asian-more-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-asian-more/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+
+{
+"name"		:	"True Korean More",
+"image"		:	"https://we-play.live/uploads/posters/true-korean-more-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/true-korean-more/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"Fashion TV",
+"image"		:	"https://we-play.live/uploads/posters/fashion-tv-poster.jpg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/fashiontv/playlist.m3u8",
+"embed"	    :	"false"
+},
+]
+},

@@ -1,0 +1,23 @@
+{
+"name"		:	"l2Clariney",
+"author"	: 	"l2",
+"image"		:	"https://i.pinimg.com/564x/1d/46/af/1d46af5cfcba14159484bea44cc88708.jpg",
+"url"       :   "https://yamcode.com/raw/news-24152",
+"stations"	:
+[
+
+{
+"name"		:	"CNN",
+"image"		:	"https://we-play.live/uploads/posters/cnn-poster1602706333.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/news/cnn/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"NHK World",
+"image"		:	"https://we-play.live/uploads/posters/nhk-world-poster1602706359.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/news/nhk/playlist.m3u8",
+"embed"	    :	"false"
+},
+]
+},

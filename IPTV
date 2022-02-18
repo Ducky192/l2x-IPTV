@@ -1,0 +1,44 @@
+{ 
+"name": "l2Clariney", 
+"author": "l2", 
+"url": "https://yamcode.com/raw/untitled-5518",
+"image": "https://i.pinimg.com/564x/1d/46/af/1d46af5cfcba14159484bea44cc88708.jpg",
+"groups": [
+
+{
+"name"	: "ดิจิตอลทีวี",
+"image"	: "https://www.engdict.com/data/dict/media/images_public/telev-00072564637329487482738662_normal.png",
+"url"	: "https://yamcode.com/raw/untitled-5678" 
+},
+
+{
+"name"	: "กีฬา",
+"image"	: "https://hibet.colonia-shop.com/media/cms_menu/icons/icons-xtreme_ngVvP1n.png",
+"url"	: "https://yamcode.com/raw/untitled-5687" 
+},
+
+{
+"name"	: "สารคดี",
+"image"	: "https://www.i-pic.info/i/aYE4122955.png",
+"url"	: "https://yamcode.com/raw/enter-6835" 
+},
+
+{
+"name"	: "บันเทิง",
+"image"	: "https://www.i-pic.info/i/NrEc122956.png",
+"url"	: "https://yamcode.com/raw/untitled-5693" 
+},
+
+{
+"name"	: "ข่าว",
+"image"	: "https://www.i-pic.info/i/3pRh122957.png",
+"url"	: "https://yamcode.com/raw/news-24152" 
+},
+
+{
+"name"	: "สำหรับเด็ก",
+"image"	: "https://www.i-pic.info/i/BuSQ122958.png",
+"url"	: "https://yamcode.com/raw/untitled-5692" 
+},
+]
+}

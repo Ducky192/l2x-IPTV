@@ -1,0 +1,72 @@
+{
+"name"		:	"l2Clariney",
+"author"	: 	"l2",
+"image"		:	"https://i.pinimg.com/564x/1d/46/af/1d46af5cfcba14159484bea44cc88708.jpg",
+"url"       :   "https://yamcode.com/raw/enter-6835",
+"stations"	:
+[
+
+{
+"name"		:	"Animal Planet",
+"image"		:	"https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/animalplanet/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"Asian Food Channel",
+"image"		:	"https://we-play.live/uploads/posters/asian-food-channel-poster1602705524.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/afn/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"Discovery Channel",
+"image"		:	"https://we-play.live/uploads/posters/discovery-channel-poster1602705554.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"Discovery Asia",
+"image"		:	"https://we-play.live/uploads/posters/discovery-asia-poster1602705589.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"History H2",
+"image"		:	"https://we-play.live/uploads/posters/history-h2-poster1602705634.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/h2/playlist.m3u8",
+"embed"	    :	"false"
+},
+
+{
+"name"		:	"History HD",
+"image"		:	"https://we-play.live/uploads/posters/history-hd-poster1602705667.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/history/playlist.m3u8",
+"embed"	   	:	"false"
+},
+
+{
+"name"		:	"LoveNature 4K",
+"image"		:	"https://we-play.live/uploads/posters/lovenature-4k-poster1602705702.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/lovenature/playlist.m3u8",
+"embed"	   	:	"false"
+},
+
+{
+"name"		:	"National Geographic",
+"image"		:	"https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/natgeo/playlist.m3u8",
+"embed"	   	:	"false"
+},
+
+{
+"name"		:	"TLC HD",
+"image"		:	"https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg",
+"url"		:	"https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/tlc/playlist.m3u8",
+"embed"	    :	"false"
+},
+]
+},
